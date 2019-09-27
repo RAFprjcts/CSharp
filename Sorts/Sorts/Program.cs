@@ -29,8 +29,10 @@ namespace Sorts
             
         static void Main(string[] args)
         {
-           // Sorting(new Bubble());
-            Sorting(new Cocktail());
+            //Sorting(new Bubble());
+            //Sorting(new Cocktail());
+            //Sorting(new CountOfComparisons());
+            Sorting(new CountOfDistributions());
         }
     }
 }
