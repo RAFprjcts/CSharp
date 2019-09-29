@@ -51,6 +51,8 @@
     <Compile Include="Sort\Cocktail.cs" />
     <Compile Include="Sort\CountOfComparisons.cs" />
     <Compile Include="Sort\CountOfDistributions.cs" />
+    <Compile Include="Sort\Shell.cs" />
+    <Compile Include="Sort\StraightInsertionSort.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

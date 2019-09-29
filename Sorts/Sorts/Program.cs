@@ -32,7 +32,9 @@ namespace Sorts
             //Sorting(new Bubble());
             //Sorting(new Cocktail());
             //Sorting(new CountOfComparisons());
-            Sorting(new CountOfDistributions());
+            //Sorting(new CountOfDistributions());
+            //Sorting(new StraightInsertionSort());
+            Sorting(new Shell());
         }
     }
 }
